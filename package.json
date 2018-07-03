@@ -1,0 +1,16 @@
+{
+  "name": "@cfn-modules/client-sg",
+  "version": "0.0.1",
+  "description": "Client Security Group.",
+  "author": "Michael Wittig <michael@widdix.de>",
+  "license": "Apache-2.0",
+  "keywords": ["cfn-modules", "cfn-modules:ExposeSecurityGroupId"],
+  "homepage": "https://github.com/cfn-modules",
+  "bugs": {
+    "url": "https://github.com/cfn-modules/client-sg/issues"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/cfn-modules/client-sg.git"
+  }
+}
