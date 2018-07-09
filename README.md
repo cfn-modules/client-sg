@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/cfn-modules/client-sg.svg?branch=master)](https://travis-ci.org/cfn-modules/client-sg)
+[![NPM version](https://img.shields.io/npm/v/@cfn-modules/client-sg.svg)](https://www.npmjs.com/package/@cfn-modules/client-sg)
+
 # cfn-modules: Client Security Group
 
 Security Group to mark traffic from client (e.g. database client).
