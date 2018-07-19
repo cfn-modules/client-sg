@@ -20,7 +20,7 @@ npm i @cfn-modules/client-sg
 AWSTemplateFormatVersion: '2010-09-09'
 Description: 'cfn-modules example'
 Resources:
-  Function:
+  ClientSg:
     Type: 'AWS::CloudFormation::Stack'
     Properties:
       Parameters:
