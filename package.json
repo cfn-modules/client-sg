@@ -1,6 +1,6 @@
 {
   "name": "@cfn-modules/client-sg",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Client Security Group.",
   "author": "Michael Wittig <michael@widdix.de>",
   "license": "Apache-2.0",
