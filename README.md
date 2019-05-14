@@ -28,6 +28,16 @@ Resources:
       TemplateURL: './node_modules/@cfn-modules/client-sg/module.yml'
 ```
 
+## Examples
+
+* [ec2-efs](https://github.com/cfn-modules/docs/tree/master/examples/ec2-efs)
+* [ec2-mysql](https://github.com/cfn-modules/docs/tree/master/examples/ec2-mysql)
+* [ec2-postgres](https://github.com/cfn-modules/docs/tree/master/examples/ec2-postgres)
+
+## Related modules
+
+none
+
 ## Parameters
 
 <table>
